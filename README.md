@@ -9,7 +9,7 @@ Palestrante: Renato Groffe - **Microsoft MVP, MTAC**
 
 Tipo do evento: **Online**
 
-Ferramenta de transmissão: **Zoom**
+Ferramenta de transmissão: **Microsoft Teams**
 
 Agradecimentos ao [**Prof. Mauricio Wieler Orellana**](https://www.linkedin.com/in/mauricio-wieler-orellana-3b578013a/) pelo convite e por todo o apoio na realização desta palestra.
 
